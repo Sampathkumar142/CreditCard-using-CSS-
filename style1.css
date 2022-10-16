@@ -1,0 +1,40 @@
+
+.completed-form{
+    display: flex;
+    flex-direction: column;
+    justify-items: center;
+    align-items: center;
+}
+
+.icon-area{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+.text-area{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    align-items: center;
+    
+}
+
+h1{
+    font-weight: 500;
+    margin: 0;
+}
+
+h4{
+    font-size: medium;
+    font-weight: 200;
+    color: gray;
+}
+
+
+.btn-area{
+    width: 100%;
+}
+
